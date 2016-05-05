@@ -1,0 +1,23 @@
+#button {
+  height: 100px;
+  width: 100px;
+  //background-color: blue;
+  margin: 0 auto;
+}
+
+
+#display-area {
+  padding-top: 50px;
+  //height: 100px;
+  //width: 400px;
+  //background-color: red;
+  margin: 0 auto;
+}
+
+#author {
+  //height: 100px;
+  //width: 400px;
+  //background-color: red;
+  margin: 0 auto;
+
+}
